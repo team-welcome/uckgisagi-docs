@@ -1,2 +1,2 @@
-# uckgisagi-docs
-억지사지 문서
+# 억지사지 Wiki
+https://github.com/team-welcome/uckgisagi-docs/wiki
